@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\bin\Debug\netcoreapp3.1\Investment.exe
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\bin\Debug\netcoreapp3.1\Investment.deps.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\bin\Debug\netcoreapp3.1\Investment.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\bin\Debug\netcoreapp3.1\Investment.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\bin\Debug\netcoreapp3.1\Investment.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\bin\Debug\netcoreapp3.1\Investment.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\obj\Debug\netcoreapp3.1\Investment.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\obj\Debug\netcoreapp3.1\Investment.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\obj\Debug\netcoreapp3.1\Investment.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\obj\Debug\netcoreapp3.1\Investment.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\obj\Debug\netcoreapp3.1\Investment.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\obj\Debug\netcoreapp3.1\Investment.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Investment\obj\Debug\netcoreapp3.1\Investment.genruntimeconfig.cache

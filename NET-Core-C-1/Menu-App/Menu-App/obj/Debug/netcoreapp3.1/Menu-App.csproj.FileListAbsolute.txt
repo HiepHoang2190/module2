@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\bin\Debug\netcoreapp3.1\Menu-App.exe
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\bin\Debug\netcoreapp3.1\Menu-App.deps.json
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\bin\Debug\netcoreapp3.1\Menu-App.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\bin\Debug\netcoreapp3.1\Menu-App.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\bin\Debug\netcoreapp3.1\Menu-App.dll
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\bin\Debug\netcoreapp3.1\Menu-App.pdb
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\obj\Debug\netcoreapp3.1\Menu-App.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\obj\Debug\netcoreapp3.1\Menu-App.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\obj\Debug\netcoreapp3.1\Menu-App.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\obj\Debug\netcoreapp3.1\Menu-App.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\obj\Debug\netcoreapp3.1\Menu-App.dll
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\obj\Debug\netcoreapp3.1\Menu-App.pdb
+D:\codegym\module2\NET-Core-C-1\Menu-App\Menu-App\obj\Debug\netcoreapp3.1\Menu-App.genruntimeconfig.cache

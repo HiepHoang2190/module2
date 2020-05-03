@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\bin\Debug\netcoreapp3.1\Using-Operator.exe
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\bin\Debug\netcoreapp3.1\Using-Operator.deps.json
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\bin\Debug\netcoreapp3.1\Using-Operator.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\bin\Debug\netcoreapp3.1\Using-Operator.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\bin\Debug\netcoreapp3.1\Using-Operator.dll
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\bin\Debug\netcoreapp3.1\Using-Operator.pdb
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\obj\Debug\netcoreapp3.1\Using-Operator.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\obj\Debug\netcoreapp3.1\Using-Operator.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\obj\Debug\netcoreapp3.1\Using-Operator.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\obj\Debug\netcoreapp3.1\Using-Operator.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\obj\Debug\netcoreapp3.1\Using-Operator.dll
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\obj\Debug\netcoreapp3.1\Using-Operator.pdb
+D:\codegym\module2\NET-Core-C-1\Using-Operator\Using-Operator\obj\Debug\netcoreapp3.1\Using-Operator.genruntimeconfig.cache

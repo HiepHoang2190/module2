@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\bin\Debug\netcoreapp3.1\cal-day-in-month.exe
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\bin\Debug\netcoreapp3.1\cal-day-in-month.deps.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\bin\Debug\netcoreapp3.1\cal-day-in-month.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\bin\Debug\netcoreapp3.1\cal-day-in-month.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\bin\Debug\netcoreapp3.1\cal-day-in-month.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\bin\Debug\netcoreapp3.1\cal-day-in-month.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\obj\Debug\netcoreapp3.1\cal-day-in-month.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\obj\Debug\netcoreapp3.1\cal-day-in-month.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\obj\Debug\netcoreapp3.1\cal-day-in-month.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\obj\Debug\netcoreapp3.1\cal-day-in-month.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\obj\Debug\netcoreapp3.1\cal-day-in-month.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\obj\Debug\netcoreapp3.1\cal-day-in-month.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\cal-day-in-month\obj\Debug\netcoreapp3.1\cal-day-in-month.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\bin\Debug\netcoreapp3.1\Calculator-BMI.exe
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\bin\Debug\netcoreapp3.1\Calculator-BMI.deps.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\bin\Debug\netcoreapp3.1\Calculator-BMI.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\bin\Debug\netcoreapp3.1\Calculator-BMI.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\bin\Debug\netcoreapp3.1\Calculator-BMI.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\bin\Debug\netcoreapp3.1\Calculator-BMI.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\obj\Debug\netcoreapp3.1\Calculator-BMI.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\obj\Debug\netcoreapp3.1\Calculator-BMI.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\obj\Debug\netcoreapp3.1\Calculator-BMI.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\obj\Debug\netcoreapp3.1\Calculator-BMI.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\obj\Debug\netcoreapp3.1\Calculator-BMI.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\obj\Debug\netcoreapp3.1\Calculator-BMI.genruntimeconfig.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\Calculator-BMI\obj\Debug\netcoreapp3.1\Calculator-BMI.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\bin\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.exe
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\bin\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.deps.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\bin\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\bin\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\bin\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\bin\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\obj\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\obj\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\obj\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\obj\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\obj\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Ex-Đọc-số-thành-chữ\obj\Debug\netcoreapp3.1\Ex-Đọc-số-thành-chữ.genruntimeconfig.cache

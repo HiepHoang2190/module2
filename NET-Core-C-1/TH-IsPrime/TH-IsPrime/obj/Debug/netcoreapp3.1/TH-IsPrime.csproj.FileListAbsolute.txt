@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\bin\Debug\netcoreapp3.1\TH-IsPrime.exe
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\bin\Debug\netcoreapp3.1\TH-IsPrime.deps.json
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\bin\Debug\netcoreapp3.1\TH-IsPrime.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\bin\Debug\netcoreapp3.1\TH-IsPrime.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\bin\Debug\netcoreapp3.1\TH-IsPrime.dll
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\bin\Debug\netcoreapp3.1\TH-IsPrime.pdb
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\obj\Debug\netcoreapp3.1\TH-IsPrime.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\obj\Debug\netcoreapp3.1\TH-IsPrime.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\obj\Debug\netcoreapp3.1\TH-IsPrime.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\obj\Debug\netcoreapp3.1\TH-IsPrime.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\obj\Debug\netcoreapp3.1\TH-IsPrime.dll
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\obj\Debug\netcoreapp3.1\TH-IsPrime.pdb
+D:\codegym\module2\NET-Core-C-1\TH-IsPrime\TH-IsPrime\obj\Debug\netcoreapp3.1\TH-IsPrime.genruntimeconfig.cache

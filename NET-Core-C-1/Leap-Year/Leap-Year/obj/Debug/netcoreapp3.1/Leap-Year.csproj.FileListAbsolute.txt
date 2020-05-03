@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\bin\Debug\netcoreapp3.1\Leap-Year.exe
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\bin\Debug\netcoreapp3.1\Leap-Year.deps.json
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\bin\Debug\netcoreapp3.1\Leap-Year.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\bin\Debug\netcoreapp3.1\Leap-Year.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\bin\Debug\netcoreapp3.1\Leap-Year.dll
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\bin\Debug\netcoreapp3.1\Leap-Year.pdb
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\obj\Debug\netcoreapp3.1\Leap-Year.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\obj\Debug\netcoreapp3.1\Leap-Year.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\obj\Debug\netcoreapp3.1\Leap-Year.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\obj\Debug\netcoreapp3.1\Leap-Year.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\obj\Debug\netcoreapp3.1\Leap-Year.dll
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\obj\Debug\netcoreapp3.1\Leap-Year.pdb
+D:\codegym\module2\NET-Core-C-1\Leap-Year\Leap-Year\obj\Debug\netcoreapp3.1\Leap-Year.genruntimeconfig.cache

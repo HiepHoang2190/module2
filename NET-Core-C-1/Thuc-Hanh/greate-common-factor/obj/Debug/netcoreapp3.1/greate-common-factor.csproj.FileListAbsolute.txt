@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\obj\Debug\netcoreapp3.1\greate-common-factor.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\obj\Debug\netcoreapp3.1\greate-common-factor.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\obj\Debug\netcoreapp3.1\greate-common-factor.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\obj\Debug\netcoreapp3.1\greate-common-factor.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\bin\Debug\netcoreapp3.1\greate-common-factor.exe
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\bin\Debug\netcoreapp3.1\greate-common-factor.deps.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\bin\Debug\netcoreapp3.1\greate-common-factor.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\bin\Debug\netcoreapp3.1\greate-common-factor.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\bin\Debug\netcoreapp3.1\greate-common-factor.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\bin\Debug\netcoreapp3.1\greate-common-factor.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\obj\Debug\netcoreapp3.1\greate-common-factor.dll
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\obj\Debug\netcoreapp3.1\greate-common-factor.pdb
+D:\codegym\module2\NET-Core-C-1\Thuc-Hanh\greate-common-factor\obj\Debug\netcoreapp3.1\greate-common-factor.genruntimeconfig.cache
