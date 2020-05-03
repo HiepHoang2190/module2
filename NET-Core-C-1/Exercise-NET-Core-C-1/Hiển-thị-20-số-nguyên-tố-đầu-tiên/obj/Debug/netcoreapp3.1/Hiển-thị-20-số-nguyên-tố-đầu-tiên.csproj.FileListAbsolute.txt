@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\bin\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.exe
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\bin\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.deps.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\bin\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\bin\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\bin\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\bin\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\obj\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\obj\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\obj\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\obj\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\obj\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\obj\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.genruntimeconfig.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-20-số-nguyên-tố-đầu-tiên\obj\Debug\netcoreapp3.1\Hiển-thị-20-số-nguyên-tố-đầu-tiên.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\bin\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.exe
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\bin\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.deps.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\bin\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\bin\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\bin\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\bin\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\obj\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.csprojAssemblyReference.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\obj\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\obj\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\obj\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\obj\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\obj\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\Hiển-thị-số-nguyên-tố-từ2đến100\obj\Debug\netcoreapp3.1\Hiển-thị-số-nguyên-tố-từ2đến100.genruntimeconfig.cache

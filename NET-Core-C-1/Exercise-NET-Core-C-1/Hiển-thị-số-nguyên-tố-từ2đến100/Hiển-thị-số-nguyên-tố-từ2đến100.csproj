@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Hiển_thị_số_nguyên_tố_từ2đến100</RootNamespace>
+  </PropertyGroup>
+
+</Project>

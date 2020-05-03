@@ -1,0 +1,12 @@
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\bin\Debug\netcoreapp3.1\ConverUSD-VND.exe
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\bin\Debug\netcoreapp3.1\ConverUSD-VND.deps.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\bin\Debug\netcoreapp3.1\ConverUSD-VND.runtimeconfig.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\bin\Debug\netcoreapp3.1\ConverUSD-VND.runtimeconfig.dev.json
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\bin\Debug\netcoreapp3.1\ConverUSD-VND.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\bin\Debug\netcoreapp3.1\ConverUSD-VND.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\obj\Debug\netcoreapp3.1\ConverUSD-VND.csproj.CoreCompileInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\obj\Debug\netcoreapp3.1\ConverUSD-VND.AssemblyInfoInputs.cache
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\obj\Debug\netcoreapp3.1\ConverUSD-VND.AssemblyInfo.cs
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\obj\Debug\netcoreapp3.1\ConverUSD-VND.dll
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\obj\Debug\netcoreapp3.1\ConverUSD-VND.pdb
+D:\codegym\module2\NET-Core-C-1\Exercise-NET-Core-C-1\ConverUSD-VND\obj\Debug\netcoreapp3.1\ConverUSD-VND.genruntimeconfig.cache
