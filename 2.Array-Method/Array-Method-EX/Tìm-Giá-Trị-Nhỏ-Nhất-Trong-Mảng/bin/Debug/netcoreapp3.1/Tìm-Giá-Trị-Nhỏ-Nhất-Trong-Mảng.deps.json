@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tìm-Giá-Trị-Nhỏ-Nhất-Trong-Mảng/1.0.0": {
+        "runtime": {
+          "Tìm-Giá-Trị-Nhỏ-Nhất-Trong-Mảng.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tìm-Giá-Trị-Nhỏ-Nhất-Trong-Mảng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

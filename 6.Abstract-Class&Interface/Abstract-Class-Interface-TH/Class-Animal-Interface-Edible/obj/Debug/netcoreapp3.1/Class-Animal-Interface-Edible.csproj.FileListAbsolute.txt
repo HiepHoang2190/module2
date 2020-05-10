@@ -1,0 +1,13 @@
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\bin\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.exe
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\bin\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.deps.json
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\bin\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.runtimeconfig.json
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\bin\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.runtimeconfig.dev.json
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\bin\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.dll
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\bin\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.pdb
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\obj\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.csprojAssemblyReference.cache
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\obj\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.csproj.CoreCompileInputs.cache
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\obj\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.AssemblyInfoInputs.cache
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\obj\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.AssemblyInfo.cs
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\obj\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.dll
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\obj\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.pdb
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\Class-Animal-Interface-Edible\obj\Debug\netcoreapp3.1\Class-Animal-Interface-Edible.genruntimeconfig.cache

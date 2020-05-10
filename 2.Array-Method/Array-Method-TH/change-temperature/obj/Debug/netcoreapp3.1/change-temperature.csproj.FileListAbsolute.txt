@@ -1,0 +1,13 @@
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\bin\Debug\netcoreapp3.1\change-temperature.exe
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\bin\Debug\netcoreapp3.1\change-temperature.deps.json
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\bin\Debug\netcoreapp3.1\change-temperature.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\bin\Debug\netcoreapp3.1\change-temperature.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\bin\Debug\netcoreapp3.1\change-temperature.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\bin\Debug\netcoreapp3.1\change-temperature.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\obj\Debug\netcoreapp3.1\change-temperature.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\obj\Debug\netcoreapp3.1\change-temperature.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\obj\Debug\netcoreapp3.1\change-temperature.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\obj\Debug\netcoreapp3.1\change-temperature.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\obj\Debug\netcoreapp3.1\change-temperature.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\obj\Debug\netcoreapp3.1\change-temperature.genruntimeconfig.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\change-temperature\obj\Debug\netcoreapp3.1\change-temperature.csprojAssemblyReference.cache

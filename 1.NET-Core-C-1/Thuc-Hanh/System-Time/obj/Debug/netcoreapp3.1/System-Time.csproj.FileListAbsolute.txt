@@ -1,0 +1,12 @@
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\bin\Debug\netcoreapp3.1\System-Time.exe
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\bin\Debug\netcoreapp3.1\System-Time.deps.json
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\bin\Debug\netcoreapp3.1\System-Time.runtimeconfig.json
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\bin\Debug\netcoreapp3.1\System-Time.runtimeconfig.dev.json
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\bin\Debug\netcoreapp3.1\System-Time.dll
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\bin\Debug\netcoreapp3.1\System-Time.pdb
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\obj\Debug\netcoreapp3.1\System-Time.csproj.CoreCompileInputs.cache
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\obj\Debug\netcoreapp3.1\System-Time.AssemblyInfoInputs.cache
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\obj\Debug\netcoreapp3.1\System-Time.AssemblyInfo.cs
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\obj\Debug\netcoreapp3.1\System-Time.dll
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\obj\Debug\netcoreapp3.1\System-Time.pdb
+D:\codegym\module2\1.NET-Core-C-1\Thuc-Hanh\System-Time\obj\Debug\netcoreapp3.1\System-Time.genruntimeconfig.cache

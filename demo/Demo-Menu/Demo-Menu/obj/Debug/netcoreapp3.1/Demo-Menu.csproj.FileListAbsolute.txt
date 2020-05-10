@@ -1,0 +1,13 @@
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\bin\Debug\netcoreapp3.1\Demo-Menu.exe
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\bin\Debug\netcoreapp3.1\Demo-Menu.deps.json
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\bin\Debug\netcoreapp3.1\Demo-Menu.runtimeconfig.json
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\bin\Debug\netcoreapp3.1\Demo-Menu.runtimeconfig.dev.json
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\bin\Debug\netcoreapp3.1\Demo-Menu.dll
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\bin\Debug\netcoreapp3.1\Demo-Menu.pdb
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\obj\Debug\netcoreapp3.1\Demo-Menu.csprojAssemblyReference.cache
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\obj\Debug\netcoreapp3.1\Demo-Menu.csproj.CoreCompileInputs.cache
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\obj\Debug\netcoreapp3.1\Demo-Menu.AssemblyInfoInputs.cache
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\obj\Debug\netcoreapp3.1\Demo-Menu.AssemblyInfo.cs
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\obj\Debug\netcoreapp3.1\Demo-Menu.dll
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\obj\Debug\netcoreapp3.1\Demo-Menu.pdb
+D:\codegym\module2\demo\Demo-Menu\Demo-Menu\obj\Debug\netcoreapp3.1\Demo-Menu.genruntimeconfig.cache

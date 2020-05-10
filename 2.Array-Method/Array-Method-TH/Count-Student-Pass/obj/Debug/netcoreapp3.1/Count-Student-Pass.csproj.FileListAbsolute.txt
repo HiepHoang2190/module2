@@ -1,0 +1,13 @@
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\bin\Debug\netcoreapp3.1\Count-Student-Pass.exe
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\bin\Debug\netcoreapp3.1\Count-Student-Pass.deps.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\bin\Debug\netcoreapp3.1\Count-Student-Pass.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\bin\Debug\netcoreapp3.1\Count-Student-Pass.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\bin\Debug\netcoreapp3.1\Count-Student-Pass.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\bin\Debug\netcoreapp3.1\Count-Student-Pass.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\obj\Debug\netcoreapp3.1\Count-Student-Pass.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\obj\Debug\netcoreapp3.1\Count-Student-Pass.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\obj\Debug\netcoreapp3.1\Count-Student-Pass.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\obj\Debug\netcoreapp3.1\Count-Student-Pass.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\obj\Debug\netcoreapp3.1\Count-Student-Pass.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\obj\Debug\netcoreapp3.1\Count-Student-Pass.genruntimeconfig.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\Count-Student-Pass\obj\Debug\netcoreapp3.1\Count-Student-Pass.csprojAssemblyReference.cache

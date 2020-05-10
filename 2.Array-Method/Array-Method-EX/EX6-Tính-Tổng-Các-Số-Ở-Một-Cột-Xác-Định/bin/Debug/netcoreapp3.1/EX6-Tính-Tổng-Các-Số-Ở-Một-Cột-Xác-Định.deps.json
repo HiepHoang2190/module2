@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định/1.0.0": {
+        "runtime": {
+          "EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

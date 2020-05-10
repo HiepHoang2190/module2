@@ -1,0 +1,13 @@
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\bin\Debug\netcoreapp3.1\EX4-Gộp-Mảng.exe
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\bin\Debug\netcoreapp3.1\EX4-Gộp-Mảng.deps.json
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\bin\Debug\netcoreapp3.1\EX4-Gộp-Mảng.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\bin\Debug\netcoreapp3.1\EX4-Gộp-Mảng.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\bin\Debug\netcoreapp3.1\EX4-Gộp-Mảng.dll
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\bin\Debug\netcoreapp3.1\EX4-Gộp-Mảng.pdb
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\obj\Debug\netcoreapp3.1\EX4-Gộp-Mảng.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\obj\Debug\netcoreapp3.1\EX4-Gộp-Mảng.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\obj\Debug\netcoreapp3.1\EX4-Gộp-Mảng.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\obj\Debug\netcoreapp3.1\EX4-Gộp-Mảng.dll
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\obj\Debug\netcoreapp3.1\EX4-Gộp-Mảng.pdb
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\obj\Debug\netcoreapp3.1\EX4-Gộp-Mảng.genruntimeconfig.cache
+D:\codegym\module2\Array-Method\Array-Method-EX\EX4-Gộp-Mảng\obj\Debug\netcoreapp3.1\EX4-Gộp-Mảng.csprojAssemblyReference.cache

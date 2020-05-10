@@ -1,0 +1,13 @@
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\bin\Debug\netcoreapp3.1\TH-Static-Property.exe
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\bin\Debug\netcoreapp3.1\TH-Static-Property.deps.json
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\bin\Debug\netcoreapp3.1\TH-Static-Property.runtimeconfig.json
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\bin\Debug\netcoreapp3.1\TH-Static-Property.runtimeconfig.dev.json
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\bin\Debug\netcoreapp3.1\TH-Static-Property.dll
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\bin\Debug\netcoreapp3.1\TH-Static-Property.pdb
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\obj\Debug\netcoreapp3.1\TH-Static-Property.csprojAssemblyReference.cache
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\obj\Debug\netcoreapp3.1\TH-Static-Property.csproj.CoreCompileInputs.cache
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\obj\Debug\netcoreapp3.1\TH-Static-Property.AssemblyInfoInputs.cache
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\obj\Debug\netcoreapp3.1\TH-Static-Property.AssemblyInfo.cs
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\obj\Debug\netcoreapp3.1\TH-Static-Property.dll
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\obj\Debug\netcoreapp3.1\TH-Static-Property.pdb
+D:\codegym\module2\AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\TH-Static-Property\obj\Debug\netcoreapp3.1\TH-Static-Property.genruntimeconfig.cache

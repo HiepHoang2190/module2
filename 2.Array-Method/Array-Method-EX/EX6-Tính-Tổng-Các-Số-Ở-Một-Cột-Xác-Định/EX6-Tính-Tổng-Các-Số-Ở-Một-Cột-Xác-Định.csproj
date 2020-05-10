@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EX6_Tính_Tổng_Các_Số_Ở_Một_Cột_Xác_Định</RootNamespace>
+  </PropertyGroup>
+
+</Project>

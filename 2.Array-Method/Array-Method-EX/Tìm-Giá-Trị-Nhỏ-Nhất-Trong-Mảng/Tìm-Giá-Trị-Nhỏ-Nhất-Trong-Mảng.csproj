@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Tìm_Giá_Trị_Nhỏ_Nhất_Trong_Mảng</RootNamespace>
+  </PropertyGroup>
+
+</Project>

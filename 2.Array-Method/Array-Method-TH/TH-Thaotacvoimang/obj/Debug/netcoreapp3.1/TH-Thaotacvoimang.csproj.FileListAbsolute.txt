@@ -1,0 +1,13 @@
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\bin\Debug\netcoreapp3.1\TH-Thaotacvoimang.exe
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\bin\Debug\netcoreapp3.1\TH-Thaotacvoimang.deps.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\bin\Debug\netcoreapp3.1\TH-Thaotacvoimang.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\bin\Debug\netcoreapp3.1\TH-Thaotacvoimang.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\bin\Debug\netcoreapp3.1\TH-Thaotacvoimang.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\bin\Debug\netcoreapp3.1\TH-Thaotacvoimang.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\obj\Debug\netcoreapp3.1\TH-Thaotacvoimang.csprojAssemblyReference.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\obj\Debug\netcoreapp3.1\TH-Thaotacvoimang.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\obj\Debug\netcoreapp3.1\TH-Thaotacvoimang.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\obj\Debug\netcoreapp3.1\TH-Thaotacvoimang.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\obj\Debug\netcoreapp3.1\TH-Thaotacvoimang.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\obj\Debug\netcoreapp3.1\TH-Thaotacvoimang.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Thaotacvoimang\obj\Debug\netcoreapp3.1\TH-Thaotacvoimang.genruntimeconfig.cache

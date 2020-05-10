@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EX7-Đếm-Số-Lần-Xuất-Hiện-Ký-Tự-Trong-Chuỗi/1.0.0": {
+        "runtime": {
+          "EX7-Đếm-Số-Lần-Xuất-Hiện-Ký-Tự-Trong-Chuỗi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX7-Đếm-Số-Lần-Xuất-Hiện-Ký-Tự-Trong-Chuỗi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

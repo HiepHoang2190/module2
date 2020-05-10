@@ -1,0 +1,13 @@
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\bin\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.exe
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\bin\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.deps.json
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\bin\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\bin\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\bin\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.dll
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\bin\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.pdb
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\obj\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.csprojAssemblyReference.cache
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\obj\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\obj\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\obj\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\obj\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.dll
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\obj\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.pdb
+D:\codegym\module2\Array-Method\Array-Method-EX\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định\obj\Debug\netcoreapp3.1\EX6-Tính-Tổng-Các-Số-Ở-Một-Cột-Xác-Định.genruntimeconfig.cache

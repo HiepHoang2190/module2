@@ -1,0 +1,13 @@
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\bin\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.exe
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\bin\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.deps.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\bin\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\bin\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\bin\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\bin\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\obj\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.csprojAssemblyReference.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\obj\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\obj\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\obj\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\obj\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\obj\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Đảo-ngược-các-phần-tử-của-mảng\obj\Debug\netcoreapp3.1\TH-Đảo-ngược-các-phần-tử-của-mảng.genruntimeconfig.cache

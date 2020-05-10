@@ -1,0 +1,13 @@
+D:\codegym\module2\demo\AccessModifierDemo\Test3\bin\Debug\netcoreapp3.1\Test3.exe
+D:\codegym\module2\demo\AccessModifierDemo\Test3\bin\Debug\netcoreapp3.1\Test3.deps.json
+D:\codegym\module2\demo\AccessModifierDemo\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.json
+D:\codegym\module2\demo\AccessModifierDemo\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.dev.json
+D:\codegym\module2\demo\AccessModifierDemo\Test3\bin\Debug\netcoreapp3.1\Test3.dll
+D:\codegym\module2\demo\AccessModifierDemo\Test3\bin\Debug\netcoreapp3.1\Test3.pdb
+D:\codegym\module2\demo\AccessModifierDemo\Test3\obj\Debug\netcoreapp3.1\Test3.csprojAssemblyReference.cache
+D:\codegym\module2\demo\AccessModifierDemo\Test3\obj\Debug\netcoreapp3.1\Test3.csproj.CoreCompileInputs.cache
+D:\codegym\module2\demo\AccessModifierDemo\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfoInputs.cache
+D:\codegym\module2\demo\AccessModifierDemo\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfo.cs
+D:\codegym\module2\demo\AccessModifierDemo\Test3\obj\Debug\netcoreapp3.1\Test3.dll
+D:\codegym\module2\demo\AccessModifierDemo\Test3\obj\Debug\netcoreapp3.1\Test3.pdb
+D:\codegym\module2\demo\AccessModifierDemo\Test3\obj\Debug\netcoreapp3.1\Test3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\bin\Debug\netcoreapp3.1\TH-Class-Rectangle.exe
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\bin\Debug\netcoreapp3.1\TH-Class-Rectangle.deps.json
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\bin\Debug\netcoreapp3.1\TH-Class-Rectangle.runtimeconfig.json
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\bin\Debug\netcoreapp3.1\TH-Class-Rectangle.runtimeconfig.dev.json
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\bin\Debug\netcoreapp3.1\TH-Class-Rectangle.dll
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\bin\Debug\netcoreapp3.1\TH-Class-Rectangle.pdb
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\obj\Debug\netcoreapp3.1\TH-Class-Rectangle.csprojAssemblyReference.cache
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\obj\Debug\netcoreapp3.1\TH-Class-Rectangle.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\obj\Debug\netcoreapp3.1\TH-Class-Rectangle.AssemblyInfoInputs.cache
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\obj\Debug\netcoreapp3.1\TH-Class-Rectangle.AssemblyInfo.cs
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\obj\Debug\netcoreapp3.1\TH-Class-Rectangle.dll
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\obj\Debug\netcoreapp3.1\TH-Class-Rectangle.pdb
+D:\codegym\module2\Class-Object\Class-Object-TH\TH-Class-Rectangle\obj\Debug\netcoreapp3.1\TH-Class-Rectangle.genruntimeconfig.cache

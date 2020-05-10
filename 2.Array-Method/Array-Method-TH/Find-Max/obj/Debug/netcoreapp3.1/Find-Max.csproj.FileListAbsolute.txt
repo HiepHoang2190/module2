@@ -1,0 +1,12 @@
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\bin\Debug\netcoreapp3.1\Find-Max.exe
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\bin\Debug\netcoreapp3.1\Find-Max.deps.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\bin\Debug\netcoreapp3.1\Find-Max.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\bin\Debug\netcoreapp3.1\Find-Max.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\bin\Debug\netcoreapp3.1\Find-Max.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\bin\Debug\netcoreapp3.1\Find-Max.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\obj\Debug\netcoreapp3.1\Find-Max.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\obj\Debug\netcoreapp3.1\Find-Max.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\obj\Debug\netcoreapp3.1\Find-Max.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\obj\Debug\netcoreapp3.1\Find-Max.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\obj\Debug\netcoreapp3.1\Find-Max.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\Find-Max\obj\Debug\netcoreapp3.1\Find-Max.genruntimeconfig.cache

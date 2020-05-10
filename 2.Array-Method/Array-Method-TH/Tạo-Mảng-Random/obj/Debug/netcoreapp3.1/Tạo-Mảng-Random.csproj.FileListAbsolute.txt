@@ -1,0 +1,12 @@
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\bin\Debug\netcoreapp3.1\Tạo-Mảng-Random.exe
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\bin\Debug\netcoreapp3.1\Tạo-Mảng-Random.deps.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\bin\Debug\netcoreapp3.1\Tạo-Mảng-Random.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\bin\Debug\netcoreapp3.1\Tạo-Mảng-Random.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\bin\Debug\netcoreapp3.1\Tạo-Mảng-Random.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\bin\Debug\netcoreapp3.1\Tạo-Mảng-Random.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\obj\Debug\netcoreapp3.1\Tạo-Mảng-Random.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\obj\Debug\netcoreapp3.1\Tạo-Mảng-Random.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\obj\Debug\netcoreapp3.1\Tạo-Mảng-Random.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\obj\Debug\netcoreapp3.1\Tạo-Mảng-Random.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\obj\Debug\netcoreapp3.1\Tạo-Mảng-Random.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\Tạo-Mảng-Random\obj\Debug\netcoreapp3.1\Tạo-Mảng-Random.genruntimeconfig.cache

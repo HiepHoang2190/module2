@@ -1,0 +1,13 @@
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\bin\Debug\netcoreapp3.1\test-2.exe
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\bin\Debug\netcoreapp3.1\test-2.deps.json
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\bin\Debug\netcoreapp3.1\test-2.runtimeconfig.json
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\bin\Debug\netcoreapp3.1\test-2.runtimeconfig.dev.json
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\bin\Debug\netcoreapp3.1\test-2.dll
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\bin\Debug\netcoreapp3.1\test-2.pdb
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\obj\Debug\netcoreapp3.1\test-2.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\obj\Debug\netcoreapp3.1\test-2.AssemblyInfoInputs.cache
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\obj\Debug\netcoreapp3.1\test-2.AssemblyInfo.cs
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\obj\Debug\netcoreapp3.1\test-2.dll
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\obj\Debug\netcoreapp3.1\test-2.pdb
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\obj\Debug\netcoreapp3.1\test-2.genruntimeconfig.cache
+D:\codegym\module2\Bai-Tap-V1Study-basic\test-2\obj\Debug\netcoreapp3.1\test-2.csprojAssemblyReference.cache

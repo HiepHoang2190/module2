@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EX7_Đếm_Số_Lần_Xuất_Hiện_Ký_Tự_Trong_Chuỗi</RootNamespace>
+  </PropertyGroup>
+
+</Project>

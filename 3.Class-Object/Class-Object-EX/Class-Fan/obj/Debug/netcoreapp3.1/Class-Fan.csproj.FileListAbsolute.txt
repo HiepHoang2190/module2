@@ -1,0 +1,13 @@
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\bin\Debug\netcoreapp3.1\Class-Fan.exe
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\bin\Debug\netcoreapp3.1\Class-Fan.deps.json
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\bin\Debug\netcoreapp3.1\Class-Fan.runtimeconfig.json
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\bin\Debug\netcoreapp3.1\Class-Fan.runtimeconfig.dev.json
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\bin\Debug\netcoreapp3.1\Class-Fan.dll
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\bin\Debug\netcoreapp3.1\Class-Fan.pdb
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\obj\Debug\netcoreapp3.1\Class-Fan.csprojAssemblyReference.cache
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\obj\Debug\netcoreapp3.1\Class-Fan.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\obj\Debug\netcoreapp3.1\Class-Fan.AssemblyInfoInputs.cache
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\obj\Debug\netcoreapp3.1\Class-Fan.AssemblyInfo.cs
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\obj\Debug\netcoreapp3.1\Class-Fan.dll
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\obj\Debug\netcoreapp3.1\Class-Fan.pdb
+D:\codegym\module2\Class-Object\Class-Object-EX\Class-Fan\obj\Debug\netcoreapp3.1\Class-Fan.genruntimeconfig.cache

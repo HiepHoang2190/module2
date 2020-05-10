@@ -1,0 +1,13 @@
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\bin\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.exe
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\bin\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.deps.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\bin\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.runtimeconfig.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\bin\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.runtimeconfig.dev.json
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\bin\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\bin\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\obj\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.csprojAssemblyReference.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\obj\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.csproj.CoreCompileInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\obj\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.AssemblyInfoInputs.cache
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\obj\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.AssemblyInfo.cs
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\obj\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.dll
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\obj\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.pdb
+D:\codegym\module2\Array-Method\Array-Method-TH\TH-Tim-giá-trị-trong-mảng\obj\Debug\netcoreapp3.1\TH-Tim-giá-trị-trong-mảng.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EX8_Tính_Tổng_Các_Phần_Tử_Chéo_Chính</RootNamespace>
+  </PropertyGroup>
+
+</Project>
