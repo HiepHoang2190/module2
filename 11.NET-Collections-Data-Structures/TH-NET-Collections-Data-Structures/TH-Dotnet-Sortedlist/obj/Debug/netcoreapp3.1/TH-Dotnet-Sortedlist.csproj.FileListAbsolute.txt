@@ -1,0 +1,13 @@
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\bin\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.exe
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\bin\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.deps.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\bin\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.runtimeconfig.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\bin\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.runtimeconfig.dev.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\bin\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.dll
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\bin\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.pdb
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\obj\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.csproj.CoreCompileInputs.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\obj\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.AssemblyInfoInputs.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\obj\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.AssemblyInfo.cs
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\obj\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.dll
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\obj\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.pdb
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\obj\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.genruntimeconfig.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Sortedlist\obj\Debug\netcoreapp3.1\TH-Dotnet-Sortedlist.csprojAssemblyReference.cache

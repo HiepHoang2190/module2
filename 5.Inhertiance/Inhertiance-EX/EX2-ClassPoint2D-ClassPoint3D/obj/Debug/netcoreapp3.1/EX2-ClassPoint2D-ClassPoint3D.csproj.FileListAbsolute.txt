@@ -1,0 +1,13 @@
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\bin\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.exe
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\bin\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.deps.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\bin\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.runtimeconfig.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\bin\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.runtimeconfig.dev.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\bin\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\bin\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\obj\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.csprojAssemblyReference.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\obj\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.csproj.CoreCompileInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\obj\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.AssemblyInfoInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\obj\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.AssemblyInfo.cs
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\obj\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\obj\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX2-ClassPoint2D-ClassPoint3D\obj\Debug\netcoreapp3.1\EX2-ClassPoint2D-ClassPoint3D.genruntimeconfig.cache

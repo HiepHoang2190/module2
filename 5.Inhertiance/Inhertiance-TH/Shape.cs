@@ -44,9 +44,9 @@ namespace Inhertiance_TH
         public override String ToString()
         {
             return $"A Shape with color of {GetColor()}, " +
-                $"and {IsFilled()}";
+                $"and {IsFilled()} ";
         }
-        #endregion
+        #endregion 
 
         #region private method
         #endregion

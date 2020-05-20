@@ -1,0 +1,13 @@
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\bin\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.exe
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\bin\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.deps.json
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\bin\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.runtimeconfig.json
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\bin\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.runtimeconfig.dev.json
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\bin\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.dll
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\bin\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.pdb
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\obj\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.csprojAssemblyReference.cache
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\obj\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.csproj.CoreCompileInputs.cache
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\obj\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.AssemblyInfoInputs.cache
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\obj\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.AssemblyInfo.cs
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\obj\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.dll
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\obj\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.pdb
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-Refactoring-Variable-Extraction\obj\Debug\netcoreapp3.1\TH-Refactoring-Variable-Extraction.genruntimeconfig.cache

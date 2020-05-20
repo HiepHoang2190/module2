@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Static-Method\\Static-Method.csproj",
+      "projectUniqueName": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Static-Method\\Static-Method.csproj",
       "projectName": "Static-Method",
-      "projectPath": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Static-Method\\Static-Method.csproj",
+      "projectPath": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Static-Method\\Static-Method.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Static-Method\\obj\\",
+      "outputPath": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Static-Method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

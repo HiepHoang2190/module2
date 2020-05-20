@@ -1,0 +1,13 @@
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\bin\Debug\netcoreapp3.1\dotnet-array-queue.exe
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\bin\Debug\netcoreapp3.1\dotnet-array-queue.deps.json
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\bin\Debug\netcoreapp3.1\dotnet-array-queue.runtimeconfig.json
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\bin\Debug\netcoreapp3.1\dotnet-array-queue.runtimeconfig.dev.json
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\bin\Debug\netcoreapp3.1\dotnet-array-queue.dll
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\bin\Debug\netcoreapp3.1\dotnet-array-queue.pdb
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\obj\Debug\netcoreapp3.1\dotnet-array-queue.csprojAssemblyReference.cache
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\obj\Debug\netcoreapp3.1\dotnet-array-queue.csproj.CoreCompileInputs.cache
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\obj\Debug\netcoreapp3.1\dotnet-array-queue.AssemblyInfoInputs.cache
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\obj\Debug\netcoreapp3.1\dotnet-array-queue.AssemblyInfo.cs
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\obj\Debug\netcoreapp3.1\dotnet-array-queue.dll
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\obj\Debug\netcoreapp3.1\dotnet-array-queue.pdb
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-array-queue\obj\Debug\netcoreapp3.1\dotnet-array-queue.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\obj\Debug\netcoreapp3.1\EX1-Access-Modifier.csproj.CoreCompileInputs.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\obj\Debug\netcoreapp3.1\EX1-Access-Modifier.AssemblyInfoInputs.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\obj\Debug\netcoreapp3.1\EX1-Access-Modifier.AssemblyInfo.cs
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\bin\Debug\netcoreapp3.1\EX1-Access-Modifier.exe
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\bin\Debug\netcoreapp3.1\EX1-Access-Modifier.deps.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\bin\Debug\netcoreapp3.1\EX1-Access-Modifier.runtimeconfig.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\bin\Debug\netcoreapp3.1\EX1-Access-Modifier.runtimeconfig.dev.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\bin\Debug\netcoreapp3.1\EX1-Access-Modifier.dll
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\bin\Debug\netcoreapp3.1\EX1-Access-Modifier.pdb
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\obj\Debug\netcoreapp3.1\EX1-Access-Modifier.dll
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\obj\Debug\netcoreapp3.1\EX1-Access-Modifier.pdb
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\obj\Debug\netcoreapp3.1\EX1-Access-Modifier.genruntimeconfig.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\EX1-Access-Modifier\obj\Debug\netcoreapp3.1\EX1-Access-Modifier.csprojAssemblyReference.cache

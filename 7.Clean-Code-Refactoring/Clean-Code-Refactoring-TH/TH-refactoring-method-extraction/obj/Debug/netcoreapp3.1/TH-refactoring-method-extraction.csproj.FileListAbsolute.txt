@@ -1,0 +1,13 @@
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\obj\Debug\netcoreapp3.1\TH-refactoring-method-extraction.csprojAssemblyReference.cache
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\obj\Debug\netcoreapp3.1\TH-refactoring-method-extraction.csproj.CoreCompileInputs.cache
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\obj\Debug\netcoreapp3.1\TH-refactoring-method-extraction.AssemblyInfoInputs.cache
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\obj\Debug\netcoreapp3.1\TH-refactoring-method-extraction.AssemblyInfo.cs
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\bin\Debug\netcoreapp3.1\TH-refactoring-method-extraction.exe
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\bin\Debug\netcoreapp3.1\TH-refactoring-method-extraction.deps.json
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\bin\Debug\netcoreapp3.1\TH-refactoring-method-extraction.runtimeconfig.json
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\bin\Debug\netcoreapp3.1\TH-refactoring-method-extraction.runtimeconfig.dev.json
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\bin\Debug\netcoreapp3.1\TH-refactoring-method-extraction.dll
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\bin\Debug\netcoreapp3.1\TH-refactoring-method-extraction.pdb
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\obj\Debug\netcoreapp3.1\TH-refactoring-method-extraction.dll
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\obj\Debug\netcoreapp3.1\TH-refactoring-method-extraction.pdb
+D:\codegym\module2\7.Clean-Code-Refactoring\Clean-Code-Refactoring-TH\TH-refactoring-method-extraction\obj\Debug\netcoreapp3.1\TH-refactoring-method-extraction.genruntimeconfig.cache

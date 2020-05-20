@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj": {}
+    "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj": {}
   },
   "projects": {
-    "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj": {
+    "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj",
+        "projectUniqueName": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj",
         "projectName": "TH-Static-Property",
-        "projectPath": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj",
+        "projectPath": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\TH-Static-Property.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\obj\\",
+        "outputPath": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\TH-Static-Property\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

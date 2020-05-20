@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codegym\\module2\\Inhertiance\\Inhertiance-TH\\Inhertiance-TH.csproj",
+      "projectUniqueName": "D:\\codegym\\module2\\5.Inhertiance\\Inhertiance-TH\\Inhertiance-TH.csproj",
       "projectName": "Inhertiance-TH",
-      "projectPath": "D:\\codegym\\module2\\Inhertiance\\Inhertiance-TH\\Inhertiance-TH.csproj",
+      "projectPath": "D:\\codegym\\module2\\5.Inhertiance\\Inhertiance-TH\\Inhertiance-TH.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\codegym\\module2\\Inhertiance\\Inhertiance-TH\\obj\\",
+      "outputPath": "D:\\codegym\\module2\\5.Inhertiance\\Inhertiance-TH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

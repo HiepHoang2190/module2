@@ -1,0 +1,13 @@
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\bin\Debug\netcoreapp3.1\dotnet-linked-list-queue.exe
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\bin\Debug\netcoreapp3.1\dotnet-linked-list-queue.deps.json
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\bin\Debug\netcoreapp3.1\dotnet-linked-list-queue.runtimeconfig.json
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\bin\Debug\netcoreapp3.1\dotnet-linked-list-queue.runtimeconfig.dev.json
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\bin\Debug\netcoreapp3.1\dotnet-linked-list-queue.dll
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\bin\Debug\netcoreapp3.1\dotnet-linked-list-queue.pdb
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\obj\Debug\netcoreapp3.1\dotnet-linked-list-queue.csprojAssemblyReference.cache
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\obj\Debug\netcoreapp3.1\dotnet-linked-list-queue.csproj.CoreCompileInputs.cache
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\obj\Debug\netcoreapp3.1\dotnet-linked-list-queue.AssemblyInfoInputs.cache
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\obj\Debug\netcoreapp3.1\dotnet-linked-list-queue.AssemblyInfo.cs
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\obj\Debug\netcoreapp3.1\dotnet-linked-list-queue.dll
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\obj\Debug\netcoreapp3.1\dotnet-linked-list-queue.pdb
+D:\codegym\module2\10.Stack-Queue-Map\TH-Stack-Queue-Map\dotnet-linked-list-queue\obj\Debug\netcoreapp3.1\dotnet-linked-list-queue.genruntimeconfig.cache

@@ -11,3 +11,16 @@ D:\codegym\module2\Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertianc
 D:\codegym\module2\Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.dll
 D:\codegym\module2\Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.pdb
 D:\codegym\module2\Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.genruntimeconfig.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\bin\Debug\netcoreapp3.1\Inhertiance-TH.exe
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\bin\Debug\netcoreapp3.1\Inhertiance-TH.deps.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\bin\Debug\netcoreapp3.1\Inhertiance-TH.runtimeconfig.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\bin\Debug\netcoreapp3.1\Inhertiance-TH.runtimeconfig.dev.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\bin\Debug\netcoreapp3.1\Inhertiance-TH.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\bin\Debug\netcoreapp3.1\Inhertiance-TH.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.csprojAssemblyReference.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.csproj.CoreCompileInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.AssemblyInfoInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.AssemblyInfo.cs
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-TH\obj\Debug\netcoreapp3.1\Inhertiance-TH.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH-Refactoring -Rename-Variables-and-Split-Constants", "TH-Refactoring -Rename-Variables-and-Split-Constants\TH-Refactoring -Rename-Variables-and-Split-Constants.csproj", "{96E9C948-D089-4653-B6B4-D917585BACDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH-Refactoring-Variable-Extraction", "TH-Refactoring-Variable-Extraction\TH-Refactoring-Variable-Extraction.csproj", "{1D37A278-35AB-4ADE-89EA-FF5F6D6F40C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH-refactoring-method-extraction", "TH-refactoring-method-extraction\TH-refactoring-method-extraction.csproj", "{D959347B-7B2C-4253-BE77-4257EFC1263B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E9C948-D089-4653-B6B4-D917585BACDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E9C948-D089-4653-B6B4-D917585BACDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E9C948-D089-4653-B6B4-D917585BACDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E9C948-D089-4653-B6B4-D917585BACDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D37A278-35AB-4ADE-89EA-FF5F6D6F40C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D37A278-35AB-4ADE-89EA-FF5F6D6F40C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D37A278-35AB-4ADE-89EA-FF5F6D6F40C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D37A278-35AB-4ADE-89EA-FF5F6D6F40C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D959347B-7B2C-4253-BE77-4257EFC1263B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D959347B-7B2C-4253-BE77-4257EFC1263B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D959347B-7B2C-4253-BE77-4257EFC1263B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D959347B-7B2C-4253-BE77-4257EFC1263B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2607026F-5BBB-4919-8164-9574BDDDDB79}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\bin\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.exe
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\bin\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.deps.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\bin\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.runtimeconfig.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\bin\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.runtimeconfig.dev.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\bin\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\bin\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\obj\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.csprojAssemblyReference.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\obj\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.csproj.CoreCompileInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\obj\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.AssemblyInfoInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\obj\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.AssemblyInfo.cs
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\obj\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\obj\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX3-ClassPoint-ClassMoveablePoint\obj\Debug\netcoreapp3.1\EX3-ClassPoint-ClassMoveablePoint.genruntimeconfig.cache

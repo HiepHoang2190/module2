@@ -1,0 +1,13 @@
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.exe
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.deps.json
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.runtimeconfig.json
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.runtimeconfig.dev.json
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.dll
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.pdb
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.csprojAssemblyReference.cache
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.csproj.CoreCompileInputs.cache
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.AssemblyInfoInputs.cache
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.AssemblyInfo.cs
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.dll
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.pdb
+D:\codegym\module2\BaiTapAnhKhoa\ForumManagement\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.genruntimeconfig.cache

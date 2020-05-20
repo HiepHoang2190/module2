@@ -1,0 +1,13 @@
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\bin\Debug\netcoreapp3.1\test.exe
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\bin\Debug\netcoreapp3.1\test.dll
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\obj\Debug\netcoreapp3.1\test.dll
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-EX\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

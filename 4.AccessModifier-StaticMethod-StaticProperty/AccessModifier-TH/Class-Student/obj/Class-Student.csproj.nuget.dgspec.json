@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj": {}
+    "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj": {}
   },
   "projects": {
-    "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj": {
+    "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj",
+        "projectUniqueName": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj",
         "projectName": "Class-Student",
-        "projectPath": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj",
+        "projectPath": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\Class-Student.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\codegym\\module2\\5.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\obj\\",
+        "outputPath": "D:\\codegym\\module2\\4.AccessModifier-StaticMethod-StaticProperty\\AccessModifier-TH\\Class-Student\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

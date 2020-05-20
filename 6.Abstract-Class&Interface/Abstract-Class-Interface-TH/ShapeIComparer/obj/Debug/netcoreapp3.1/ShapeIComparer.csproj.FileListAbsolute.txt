@@ -1,0 +1,13 @@
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\bin\Debug\netcoreapp3.1\ShapeIComparer.exe
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\bin\Debug\netcoreapp3.1\ShapeIComparer.deps.json
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\bin\Debug\netcoreapp3.1\ShapeIComparer.runtimeconfig.json
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\bin\Debug\netcoreapp3.1\ShapeIComparer.runtimeconfig.dev.json
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\bin\Debug\netcoreapp3.1\ShapeIComparer.dll
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\bin\Debug\netcoreapp3.1\ShapeIComparer.pdb
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\obj\Debug\netcoreapp3.1\ShapeIComparer.csprojAssemblyReference.cache
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\obj\Debug\netcoreapp3.1\ShapeIComparer.csproj.CoreCompileInputs.cache
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\obj\Debug\netcoreapp3.1\ShapeIComparer.AssemblyInfoInputs.cache
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\obj\Debug\netcoreapp3.1\ShapeIComparer.AssemblyInfo.cs
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\obj\Debug\netcoreapp3.1\ShapeIComparer.dll
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\obj\Debug\netcoreapp3.1\ShapeIComparer.pdb
+D:\codegym\module2\6.Abstract-Class&Interface\Abstract-Class-Interface-TH\ShapeIComparer\obj\Debug\netcoreapp3.1\ShapeIComparer.genruntimeconfig.cache

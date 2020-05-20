@@ -1,0 +1,13 @@
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\bin\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.exe
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\bin\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.deps.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\bin\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.runtimeconfig.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\bin\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.runtimeconfig.dev.json
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\bin\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.dll
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\bin\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.pdb
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\obj\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.csprojAssemblyReference.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\obj\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.csproj.CoreCompileInputs.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\obj\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.AssemblyInfoInputs.cache
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\obj\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.AssemblyInfo.cs
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\obj\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.dll
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\obj\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.pdb
+D:\codegym\module2\11.NET-Collections-Data-Structures\TH-NET-Collections-Data-Structures\TH-Dotnet-Arraylist\obj\Debug\netcoreapp3.1\TH-Dotnet-Arraylist.genruntimeconfig.cache

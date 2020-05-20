@@ -1,0 +1,13 @@
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\bin\Debug\netcoreapp3.1\TH-List-Basic.exe
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\bin\Debug\netcoreapp3.1\TH-List-Basic.deps.json
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\bin\Debug\netcoreapp3.1\TH-List-Basic.runtimeconfig.json
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\bin\Debug\netcoreapp3.1\TH-List-Basic.runtimeconfig.dev.json
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\bin\Debug\netcoreapp3.1\TH-List-Basic.dll
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\bin\Debug\netcoreapp3.1\TH-List-Basic.pdb
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\obj\Debug\netcoreapp3.1\TH-List-Basic.csprojAssemblyReference.cache
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\obj\Debug\netcoreapp3.1\TH-List-Basic.csproj.CoreCompileInputs.cache
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\obj\Debug\netcoreapp3.1\TH-List-Basic.AssemblyInfoInputs.cache
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\obj\Debug\netcoreapp3.1\TH-List-Basic.AssemblyInfo.cs
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\obj\Debug\netcoreapp3.1\TH-List-Basic.dll
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\obj\Debug\netcoreapp3.1\TH-List-Basic.pdb
+D:\codegym\module2\9.Collections\Collection-TH\TH-List-Basic\obj\Debug\netcoreapp3.1\TH-List-Basic.genruntimeconfig.cache

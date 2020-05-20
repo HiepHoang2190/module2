@@ -1,0 +1,13 @@
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\bin\Debug\netcoreapp3.1\Class-Animal.exe
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\bin\Debug\netcoreapp3.1\Class-Animal.deps.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\bin\Debug\netcoreapp3.1\Class-Animal.runtimeconfig.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\bin\Debug\netcoreapp3.1\Class-Animal.runtimeconfig.dev.json
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\bin\Debug\netcoreapp3.1\Class-Animal.dll
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\bin\Debug\netcoreapp3.1\Class-Animal.pdb
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\obj\Debug\netcoreapp3.1\Class-Animal.csprojAssemblyReference.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\obj\Debug\netcoreapp3.1\Class-Animal.csproj.CoreCompileInputs.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\obj\Debug\netcoreapp3.1\Class-Animal.AssemblyInfoInputs.cache
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\obj\Debug\netcoreapp3.1\Class-Animal.AssemblyInfo.cs
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\obj\Debug\netcoreapp3.1\Class-Animal.dll
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\obj\Debug\netcoreapp3.1\Class-Animal.pdb
+D:\codegym\module2\4.AccessModifier-StaticMethod-StaticProperty\AccessModifier-TH\Class-Animal\obj\Debug\netcoreapp3.1\Class-Animal.genruntimeconfig.cache

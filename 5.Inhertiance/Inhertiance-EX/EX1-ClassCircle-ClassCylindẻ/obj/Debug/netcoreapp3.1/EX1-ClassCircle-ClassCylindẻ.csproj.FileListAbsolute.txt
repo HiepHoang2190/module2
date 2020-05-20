@@ -1,0 +1,13 @@
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\bin\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.exe
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\bin\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.deps.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\bin\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.runtimeconfig.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\bin\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.runtimeconfig.dev.json
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\bin\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\bin\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\obj\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.csprojAssemblyReference.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\obj\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.csproj.CoreCompileInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\obj\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.AssemblyInfoInputs.cache
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\obj\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.AssemblyInfo.cs
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\obj\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.dll
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\obj\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.pdb
+D:\codegym\module2\5.Inhertiance\Inhertiance-EX\EX1-ClassCircle-ClassCylindẻ\obj\Debug\netcoreapp3.1\EX1-ClassCircle-ClassCylindẻ.genruntimeconfig.cache
